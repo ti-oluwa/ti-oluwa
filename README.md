@@ -1,4 +1,4 @@
-### Afolayan Toluwalase (ti_oluwa) 👋
+### Daniel T. Afolayan (ti_oluwa) 👋
 
 <!--
 **ti-oluwa/ti-oluwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
