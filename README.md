@@ -2,7 +2,7 @@
 I'm a Backend Engineer, System Architect, and DevOps enthusiast with a passion for building robust, scalable, and secure server-side systems. With over four years of experience in Python and a knack for solving complex engineering challenges, I design high-performance APIs and streamline development workflows—all while having a little fun with code.
 
 ## 🛠️ Technologies & Tools
-- Languages: Python, JavaScript, Go
+- Languages: Python, Go
 - Frameworks: Django, FastAPI
 - API Design: REST, GraphQL
 - Databases: PostgreSQL, MySQL, Redis
