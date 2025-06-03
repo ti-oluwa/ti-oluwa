@@ -1,7 +1,6 @@
-# Daniel T. Afolayan (tioluwa)
-I'm a Backend Engineer, System Architect, and DevOps enthusiast with a passion for building robust, scalable, and secure server-side systems. With over four years of experience in Python and a knack for solving complex engineering challenges, I design high-performance APIs and streamline development workflows—all while having a little fun with code.
+I build server-side systems and developer tools.
 
-## 🛠️ Technologies & Tools
+## 🛠️ The technologies & Tools I have acquainted my self with
 - Languages: Python, Go
 - Frameworks: Django, FastAPI
 - API Design: REST, GraphQL
@@ -10,11 +9,6 @@ I'm a Backend Engineer, System Architect, and DevOps enthusiast with a passion f
 - Testing & Automation: Unittest, Pytest, Selenium, Playwright
 - Web & UI: HTMX, TailwindCSS, HTML5/CSS3
 
-## 🌟 About Me
-I love diving into new technologies and building tools that make an engineer’s life a bit easier. Whether I'm architecting backend systems or automating complex processes, I'm always up for a challenge and eager to connect with fellow tech enthusiasts.
-
-## 🤝 Let's Connect
+## 🤝 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/tioluwa)
 - [Email](mailto:tioluwa.dev@gmail.com)
-
-**Feel free to explore my projects or drop me a message if you want to chat about tech, collaboration opportunities, or just geek out over code!**
