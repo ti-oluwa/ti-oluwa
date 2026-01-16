@@ -1,6 +1,8 @@
+### Hi! Tolu Here.
+
 I build server-side systems and developer tools.
 
-## 🛠️ The technologies & Tools I have acquainted my self with
+### 🛠️ The technologies & Tools I have acquainted my self with
 - Languages: Python, Go
 - Frameworks: Django, FastAPI
 - API Design: REST, GraphQL
@@ -9,6 +11,6 @@ I build server-side systems and developer tools.
 - Testing & Automation: Unittest, Pytest, Selenium, Playwright
 - Web & UI: HTMX, TailwindCSS, HTML5/CSS3
 
-## 🤝 Connect with me
+### 🤝 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/tioluwa)
 - [Email](mailto:tioluwa.dev@gmail.com)
